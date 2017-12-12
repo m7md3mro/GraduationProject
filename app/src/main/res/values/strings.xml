@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Observing Active</string>
+
+    <string-array name="Gender">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+
+
+    <string-array name="Loc">
+        <item>Amman</item>
+        <item>Jarash</item>
+        <item>Balqa'</item>
+        <item>Irbed</item>
+        <item>Zarqa'</item>
+        <item>Tafeleh</item>
+        <item>Ajloun</item>
+        <item>Aqaba</item>
+        <item>Karak</item>
+        <item>Madaba</item>
+        <item>Mafraq</item>
+
+    </string-array>
+
+
+    <string-array name="Exp">
+        <item>Less Than 1 year</item>
+        <item>1 year</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>More Than 4 years</item>
+
+    </string-array>
+
+
+    <string-array name="status">
+        <item>Available</item>
+        <item>Busy</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="please_chose_your_position">Please chose your position</string>
+</resources>
